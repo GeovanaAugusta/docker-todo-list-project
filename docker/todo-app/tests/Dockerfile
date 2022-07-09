@@ -1,6 +1,5 @@
 FROM mjgargani/puppeteer:trybe1.0
-WORKDIR /todo-app/tests
+WORKDIR /
 ADD node_modules.tar.gz ./
 COPY . .
-RUN npm install
-CMD [ "npm", "start" ]
+CMD [ "npm", "test" ]
