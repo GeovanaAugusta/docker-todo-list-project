@@ -1,6 +1,6 @@
 # Docker Todo List
 
-Neste projeto há uma aplicação full-stack que é um aplicativo de tarefas desenvolvido pela Trybe! Pude conteinerizar a aplicação, desenvolvi os arquivos de configuração para cada frente específica: Front-end, Back-end e para um aplicativo de teste que validava se as aplicações estão se comunicando.
+Neste projeto há uma aplicação full-stack que é um aplicativo de tarefas desenvolvido pela Trybe! Pude conteinerizar a aplicação, desenvolvendo assim os arquivos de configuração para cada frente específica: Front-end, Back-end e para um aplicativo de teste que validava se as aplicações estão se comunicando.
 
 Utilizando o Docker como ferramenta, foi possível subir um container através do docker-compose.
 
